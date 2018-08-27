@@ -13,7 +13,7 @@ print('''line1
 line2
 line3''')
 
-age = input('请输入年888s888s888s888s888s888s888s888s888s888s888s龄：');
+age = input('请输入您的年龄：');
 print('你输入的年龄是：',age,'岁');
 print(type(age));
 #age = int(age);
